@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <h1>**BangAguse**</h1>
+  <h1>BangAguse</h1>
   <h3>Security-aware Experimenter • System Thinker • Builder by Curiosity</h3>
 </div>
 
