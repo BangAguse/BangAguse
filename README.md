@@ -133,15 +133,15 @@ eventually producing real tools, not just ideas.
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.zcy.dev/api?username=BangAguse&show_icons=true&theme=nightowl&hide_border=true" alt="Github Stats"/>
+<img src="https://github-readme-stats.zcy.dev/api?username=BangAguse&show_icons=true&theme=highcontrast&hide_border=true" alt="Github Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BangAguse&theme=nightowl"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BangAguse&theme=highcontrast"/>
 </p>
 
 <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BangAguse&theme=nightowl" alt="Primary Languages"/>
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BangAguse&theme=highcontrast" alt="Primary Languages"/>
 </p>
 ---
 
