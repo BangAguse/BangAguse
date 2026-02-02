@@ -86,7 +86,7 @@ eventually producing real tools, not just ideas.
        height="240px" />
 </p>
 
-## ⚙️ Tools, Platforms & Environments
+## ⚙️ Tools, Technology & Language
 
 <p align="center">
   <!-- Development -->
