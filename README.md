@@ -143,6 +143,7 @@ eventually producing real tools, not just ideas.
 <p align="center">
    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BangAguse&theme=highcontrast" alt="Primary Languages"/>
 </p>
+
 ---
 
 <h2 align="center">🤝 Notes</h2>
