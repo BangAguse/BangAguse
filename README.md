@@ -140,6 +140,9 @@ eventually producing real tools, not just ideas.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BangAguse&theme=dracula"/>
 </p>
 
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rafashaalfiandi&theme=tokyonight" alt="Primary Languages"/>
+</p>
 ---
 
 <h2 align="center">🤝 Notes</h2>
