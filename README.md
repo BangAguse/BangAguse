@@ -28,7 +28,7 @@ src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 Hi.  
 My name is **Muh. Agus Tri Ananda**.
 
-I’m an **experimenter by habit**: someone who enjoys **oprek systems**, questioning how things *actually* behave under the hood, and thinking about their **real-world impact on users** — not just whether they appear to work.
+I’m an **experimenter by habit**: someone who enjoys **“oprek systems”**, questioning how things *actually* behave under the hood, and thinking about their **real-world impact on users** — not just whether they appear to work.
 
 I don’t present myself as an expert.  
 I don’t sell shortcuts.  
