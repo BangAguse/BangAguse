@@ -72,7 +72,7 @@ My background isn’t purely technical — and that’s intentional.
 - Alumni **Al-Azka Islamic Boarding School** (Affiliated with alumni of Al-Fatah Temboro)  
 - Previously studied at **As’adiyah Sengkang**  
 - Currently pursuing higher education at **UIN Alauddin Makassar (UINAM)**  
-  majoring in **Komunikasi dan Penyiaran Islam**
+  majoring in **Islamic Communication and Broadcasting**
 
 My interest in systems, security, and technology started back in **Junior High School** and grew organically into a long-term practice —  
 eventually producing real tools, not just ideas.
