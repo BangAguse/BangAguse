@@ -133,10 +133,6 @@ eventually producing real tools, not just ideas.
 ## 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.zcy.dev/api?username=BangAguse&show_icons=true&theme=highcontrast&hide_border=true" alt="Github Stats"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BangAguse&theme=highcontrast"/>
 </p>
 
