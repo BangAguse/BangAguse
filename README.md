@@ -44,12 +44,9 @@ If something is built, it should be:
 ## 🌐 Personal Portfolio
 
 For a clearer picture of my work, experiments, and technical direction,  
-you can explore my **personal portfolio website**:
+you can explore my **case studies**:
 
-👉 **[Visit my portfolio — a curated space documenting my tools, ideas, and technical explorations](https://masihbelumadabang.com)**
-
-The site acts as a quiet archive of what I build, why I build it, and how I think —  
-without hype, and without exaggeration.
+👉 **[Visit my Cybersec Case Studies](https://github.com/BangAguse/Cybersec-Case-Studies)**
 
 ---
 
